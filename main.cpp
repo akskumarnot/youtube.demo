@@ -2,6 +2,6 @@
 using namespace std;
 
 int main()
-{
-    cout<<"youre a goood man aod you know it";
+{int a=10;
+    cout<<"youre a goood man aod you know it"<<"period"<<a;
 }
